@@ -70,15 +70,3 @@ During the seminar, the dashboard was used as a **live demonstration tool** to v
 
 ---
 
-## 📊 Key Concepts Covered
-
-* Data Updates and Refreshing
-* Visual Transitions
-* Motion and Drill-Down
-* Interactivity
-* Layout Design
-* Data Remapping
-* Exporting Reports
-
----
-
